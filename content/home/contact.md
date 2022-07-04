@@ -26,6 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: jing.chen@ntu.edu.sg
+  [^_^]: # (哈哈我是注释，不会在浏览器中显示。)
   phone: 888 888 88 88
   address:
     street: 450 Serra Mall
