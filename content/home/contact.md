@@ -26,7 +26,6 @@ content:
 
   # Contact details (edit or remove options as required)
   email: jing.chen@ntu.edu.sg
-  phone: ---
   address:
     street: 50 Nanyang Avenue
     city: Singapore
