@@ -13,7 +13,7 @@ subtitle:
 
 content:
   # Automatically link email and phone or display as text?
-  autolink: true
+  autolink: false
 
   # Email form provider
   form:
@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
+  email: jing.chen@ntu.edu.sg
   phone: 888 888 88 88
   address:
     street: 450 Serra Mall
