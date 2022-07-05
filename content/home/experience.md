@@ -36,7 +36,7 @@ experience:
     company: Department of Mathematical Sciences, Tsinghua University
     company_url: ''
     company_logo: org-x
-    location: China
+    location: California
     date_start: '2016-08-01'
     date_end: '2021-06-31'
     description: Taught electronic engineering and researched semiconductor physics.
