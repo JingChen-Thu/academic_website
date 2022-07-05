@@ -42,17 +42,24 @@ experience:
     description: |2-
         Advisor: Associate Prof. Hao Wu
   
-  - title: Doctor of Science in Mathematics
+  - title: Visiting Ph.D Student
+    company: GFZ German Research Centre for Geosciences
+    company_url: ''
+    company_logo: org-x
+    location: China
+    date_start: '2018-09-01'
+    date_end: '2019-09-30'
+    description: |2-
+        Joint advisor: Senior Scientist Dr. Xiaohui Yuan
+
+  - title: Bachelor of Science in Mathematics
     company: Department of Mathematical Sciences, Tsinghua University
     company_url: ''
     company_logo: org-x
     location: China
-    date_start: '2016-08-01'
-    date_end: '2021-06-30'
-    description: |2-
-        Advisor: Associate Prof. Hao Wu
-
-
+    date_start: '2012-08-01'
+    date_end: '2016-06-30'
+        
 design:
   columns: '2'
 ---
