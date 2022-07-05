@@ -32,8 +32,8 @@ experience:
     description: |2-
         Advisor: Associate Prof. Ping Tong
 
-  - title: Department of Mathematical Sciences, Tsinghua University
-    company: University X
+  - title: Doctor of Science in Mathematics
+    company: Department of Mathematical Sciences, Tsinghua University
     company_url: ''
     company_logo: org-x
     location: California
