@@ -32,7 +32,7 @@ experience:
     description: |2-
         Advisor: Associate Prof. Ping Tong
 
-  - title: Doctor of Science in Mathematics, Tsinghua University
+  - title: Professor of Semiconductor Physics
     company: Department of Mathematical Sciences, Tsinghua University
     company_url: ''
     company_logo: org-x
