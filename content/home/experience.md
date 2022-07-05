@@ -30,7 +30,7 @@ experience:
     date_start: '2021-10-01'
     date_end: ''
     description: |2-
-        Associate Prof. Ping Tong
+        Advisor: Associate Prof. Ping Tong
 
   - title: Professor of Semiconductor Physics
     company: University X
