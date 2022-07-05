@@ -47,7 +47,7 @@ url_video: ''
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
----
+
 title: 'A new earthquake location method based on the waveform inversion'
 
 authors:
@@ -98,6 +98,8 @@ url_video: ''
 slides: example
 ---
 
+
+---
 
 
 
