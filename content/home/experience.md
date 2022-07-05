@@ -33,12 +33,12 @@ experience:
         Advisor: Associate Prof. Ping Tong
 
   - title: Professor of Semiconductor Physics
-    company: Department of Mathematical Sciences, Tsinghua University
+    company: University X
     company_url: ''
     company_logo: org-x
-    location: China
-    date_start: '2016-08-01'
-    date_end: '2021-06-31'
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
 
