@@ -26,8 +26,8 @@ experience:
     company: School of Physical Mathematical Sciences, Nanyan Technological University
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Singapore
+    date_start: '2021-10-01'
     date_end: ''
     description: |2-
         Responsibilities include:
