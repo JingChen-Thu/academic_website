@@ -39,7 +39,19 @@ experience:
     location: China
     date_start: '2016-08-01'
     date_end: '2021-06-30'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+        Advisor: Associate Prof. Hao Wu
+  
+  - title: Doctor of Science in Mathematics
+    company: Department of Mathematical Sciences, Tsinghua University
+    company_url: ''
+    company_logo: org-x
+    location: China
+    date_start: '2016-08-01'
+    date_end: '2021-06-30'
+    description: |2-
+        Advisor: Associate Prof. Hao Wu
+
 
 design:
   columns: '2'
