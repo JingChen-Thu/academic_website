@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'A new earthquake location method based on the waveform inversion'
 
 authors:
   - Hao Wu
@@ -11,7 +11,7 @@ date: '2018-01-01T00:00:00Z'
 doi: '10.4208/cicp.OA-2016-0203'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2019-01-01T00:00:00Z'
+publishDate: '2018-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
