@@ -29,7 +29,8 @@ experience:
     location: Singapore
     date_start: '2021-10-01'
     date_end: ''
-    description: Advisor: Associate Prof. Ping Tong
+    description: |2-
+        Associate Prof. Ping Tong
 
   - title: Professor of Semiconductor Physics
     company: University X
