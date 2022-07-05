@@ -39,7 +39,7 @@ experience:
     location: China
     date_start: '2016-08-01'
     date_end: '2021-06-30'
-    description: Advisor: Associate Prof. Hao Wu
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
