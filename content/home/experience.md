@@ -24,8 +24,6 @@ date_format: Jan 2006
 experience:
   - title: Research fellow
     company: School of Physical Mathematical Sciences, Nanyan Technological University
-    company_url: ''
-    company_logo: org-gc
     location: Singapore
     date_start: '2021-10-01'
     date_end: ''
@@ -34,8 +32,6 @@ experience:
 
   - title: Doctor of Science in Mathematics
     company: Department of Mathematical Sciences, Tsinghua University
-    company_url: ''
-    company_logo: org-x
     location: China
     date_start: '2016-08-01'
     date_end: '2021-06-30'
@@ -44,8 +40,6 @@ experience:
   
   - title: Visiting Ph.D Student
     company: GFZ German Research Centre for Geosciences
-    company_url: ''
-    company_logo: org-x
     location: China
     date_start: '2018-09-01'
     date_end: '2019-09-30'
@@ -54,8 +48,6 @@ experience:
 
   - title: Bachelor of Science in Mathematics
     company: Department of Mathematical Sciences, Tsinghua University
-    company_url: ''
-    company_logo: org-x
     location: China
     date_start: '2012-08-01'
     date_end: '2016-06-30'
