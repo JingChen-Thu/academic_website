@@ -29,7 +29,7 @@ experience:
     location: Singapore
     date_start: '2021-10-01'
     date_end: ''
-    description: Advisor: Prof. Ping Tong
+    description: Advisor is Prof. Ping Tong
 
   - title: Doctor of Science in Mathematics, Tsinghua University
     company: Department of Mathematical Sciences, Tsinghua University
@@ -38,7 +38,7 @@ experience:
     location: China
     date_start: '2016-08-01'
     date_end: '2021-06-31'
-    description: Advisor: Prof. Hao Wu
+    description: Advisor is Prof. Hao Wu
 
 design:
   columns: '2'
