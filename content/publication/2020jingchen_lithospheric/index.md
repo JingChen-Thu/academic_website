@@ -1,5 +1,5 @@
 ---
-title: 'Adjoint Tomography of Northeast Japan Revealed by Common Source Double Difference Travel Time Data'
+title: 'Adjoint Tomography of Northeast Japan Revealed by Common-Source Double-Difference Travel-Time Data'
 
 authors:
   - admin
