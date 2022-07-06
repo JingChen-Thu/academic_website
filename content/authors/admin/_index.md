@@ -71,4 +71,4 @@ Jing Chen is a research fellow in School of Physical and Mathematical Sciences (
 
 陈敬是南洋理工大学物理与数学科学学院的一名博后，其研究兴趣包括地震层析成像，反演理论和最优输运理论。
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
