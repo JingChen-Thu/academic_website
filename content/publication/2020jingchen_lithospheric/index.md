@@ -1,5 +1,5 @@
 ---
-title: 'Adjoint Tomography of Northeast Japan Revealed by Common-Source Double-Difference Travel-Time Data'
+title: 'Adjoint Tomography of Northeast Japan Revealed by Common Source Double Difference Travel Time Data'
 
 authors:
   - admin
@@ -21,8 +21,8 @@ publishDate: '2022-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: Seismological Research Letters, 93 (3): 1835–1851
-publication_short: Seismological Research Letters, 93 (3): 1835–1851
+publication: Seismological Research Letters, 93 (3), 1835–1851
+publication_short: Seismological Research Letters, 93 (3), 1835–1851
 
 # Display this page in the Featured widget?
 featured: true

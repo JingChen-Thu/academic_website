@@ -24,8 +24,8 @@ publishDate: '2020-02-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: Journal of Geophysical Research: Solid Earth, 125, e2019JB019040
-publication_short: Journal of Geophysical Research: Solid Earth, 125, e2019JB019040
+publication: Journal of Geophysical Research Solid Earth, 125, e2019JB019040
+publication_short: Journal of Geophysical Research Solid Earth, 125, e2019JB019040
 
 # Display this page in the Featured widget?
 featured: true
