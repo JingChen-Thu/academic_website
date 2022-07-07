@@ -1,18 +1,21 @@
 ---
-title: 'Adjoint Tomography of Northeast Japan Revealed by Common-Source Double-Difference Travel-Time Data'
+title: 'Lithospheric delamination beneath the southern Puna plateau resolved by local earthquake tomography'
 
 authors:
   - admin
-  - Guoxu Chen
+  - Sofia-Katerina Kufner
+  - Xiaohui Yuan
+  - Benjamin Heit
   - Hao Wu
-  - Jiayuan Yao
-  - Ping Tong
+  - Dinghui Yang
+  - Bernd Schurr
+  - Suzanne Kay
 
-date: '2022-01-01T00:00:00Z'
-doi: '10.1785/0220210317'
+date: '2020-02-01T00:00:00Z'
+doi: '10.1029/2019JB019040'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-01-01T00:00:00Z'
+publishDate: '2020-02-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,8 +24,8 @@ publishDate: '2022-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: Seismological Research Letters, 93 (3), 1835–1851
-publication_short: Seismological Research Letters, 93 (3), 1835–1851
+publication: Journal of Geophysical Research Solid Earth, 125, e2019JB019040
+publication_short: Journal of Geophysical Research Solid Earth, 125, e2019JB019040
 
 # Display this page in the Featured widget?
 featured: true
