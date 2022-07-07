@@ -7,7 +7,7 @@ authors:
   - Hao Wu
   - Dinghui Yang
 
-date: '2018-01-01T00:00:00Z'
+date: '2018-02-01T00:00:00Z'
 doi: '10.1016/j.jcp.2018.06.066'
 
 # Schedule page publish date (NOT publication's date).
