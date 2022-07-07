@@ -40,7 +40,7 @@ experience:
   
   - title: Visiting Ph.D Student
     company: GFZ German Research Centre for Geosciences
-    location: China
+    location: Germany
     date_start: '2018-09-01'
     date_end: '2019-09-30'
     description: |2-
