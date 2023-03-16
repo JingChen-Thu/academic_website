@@ -12,7 +12,7 @@ authors:
   # - Masaru Nagaso
   # - Ping Tong
 
-date: '2023-03-14T00:00:00Z'
+# date: '2023-03-14T00:00:00Z'
 doi: '10.1093/gji/ggad093'
 
 # Schedule page publish date (NOT publication's date).
@@ -26,7 +26,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: Geophysical Journal International, ggad093
-publication_short: Geophys. J. Int., ggad093
+publication_short: Geophys. J. Int., 2023, ggad093
 
 # Display this page in the Featured widget?
 featured: true
