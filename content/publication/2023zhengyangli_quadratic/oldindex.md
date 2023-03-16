@@ -1,22 +1,23 @@
 ---
-title: 'Adjoint-state traveltime tomography for azimuthally anisotropic media in spherical coordinates'
+title: 'The quadratic Wasserstein metric with squaring scaling for seismic velocity inversion'
 
 authors:
-  - "[9]"
+  - "[10]"
   # - admin
   # - G. Chen
   # - M. Nagaso
   # - P. Tong
+  - Zhengyang Li
+  - Yijia Tang
   - admin
-  - Guoxu Chen
-  - Masaru Nagaso
-  - Ping Tong
+  - Hao Wu
 
-date: '2023-03-14T00:00:00Z'
-doi: '10.1093/gji/ggad093'
+
+date: '2023-04-01T00:00:00Z'
+# doi: '10.1093/gji/ggad093'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-03-14T00:00:00Z'
+publishDate: '2023-04-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,8 +26,8 @@ publishDate: '2023-03-14T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: Geophysical Journal International, ggad093
-publication_short: Geophysical Journal International, ggad093
+publication: Accepted by Numerical Mathematics Theory, Methods and Applications
+publication_short: Accepted by Numerical Mathematics Theory, Methods and Applications
 
 # Display this page in the Featured widget?
 featured: true
