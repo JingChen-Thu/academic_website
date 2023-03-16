@@ -2,7 +2,7 @@
 title: 'Adjoint-state traveltime tomography for azimuthally anisotropic media in spherical coordinates'
 
 authors:
-  - [10]
+  - "[10]"
   - admin
   - Guoxu Chen
   - Masaru Nagaso
