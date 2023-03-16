@@ -2,6 +2,7 @@
 title: 'The quadratic Wasserstein metric for earthquake location'
 
 authors:
+  - "[2]"
   - admin
   - Yifan Chen 
   - Hao Wu

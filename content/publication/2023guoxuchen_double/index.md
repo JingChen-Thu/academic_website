@@ -2,6 +2,7 @@
 title: 'Double-difference adjoint tomography of the crust and uppermost mantle beneath Alaska'
 
 authors:
+  - "[7]"
   - Guoxu Chen
   - admin
   - Carl Tape

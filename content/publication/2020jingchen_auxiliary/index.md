@@ -2,6 +2,7 @@
 title: 'The auxiliary function method for waveform based earthquake location'
 
 authors:
+  - "[3]"
   - admin
   - Hao Jing 
   - Ping Tong

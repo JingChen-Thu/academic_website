@@ -2,6 +2,7 @@
 title: 'A new earthquake location method based on the waveform inversion'
 
 authors:
+  - "[1]"
   - Hao Wu
   - admin
   - Xueyuan Huang

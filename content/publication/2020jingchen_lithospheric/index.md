@@ -2,6 +2,7 @@
 title: 'Lithospheric delamination beneath the southern Puna plateau resolved by local earthquake tomography'
 
 authors:
+  - "[4]"
   - admin
   - Sofia-Katerina Kufner
   - Xiaohui Yuan

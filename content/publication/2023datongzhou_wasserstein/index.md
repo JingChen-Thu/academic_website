@@ -2,6 +2,7 @@
 title: 'The Wasserstein-Fisher-Rao metric for waveform based earthquake location'
 
 authors:
+  - "[8]"
   - Datong Zhou
   - admin
   - Hao Wu

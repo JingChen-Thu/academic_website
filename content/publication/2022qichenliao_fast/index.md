@@ -2,6 +2,7 @@
 title: 'Fast Sinkhorn I: An O(N) algorithm for the Wasserstein-1 metric'
 
 authors:
+  - "[6]"
   - Qichen Liao
   - admin
   - Zihao Wang

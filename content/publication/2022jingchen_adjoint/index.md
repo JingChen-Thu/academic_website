@@ -2,6 +2,7 @@
 title: 'Adjoint Tomography of Northeast Japan Revealed by Common-Source Double-Difference Travel-Time Data'
 
 authors:
+  - "[5]"
   - admin
   - Guoxu Chen
   - Hao Wu
