@@ -26,7 +26,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: Geophysical Journal International, ggad093
-publication_short: Geophys. J. Int., 2023, ggad093
+publication_short: Geophys. J. Int., ggad093
 
 # Display this page in the Featured widget?
 featured: true
