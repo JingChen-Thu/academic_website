@@ -26,8 +26,8 @@ publishDate: '2023-04-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: Accepted by Numerical Mathematics":" Theory, Methods and Applications
-publication_short: Accepted by Numerical Mathematics":" Theory, Methods and Applications
+publication: Accepted by Numerical Mathematics Theory, Methods and Applications
+publication_short: Accepted by Numerical Mathematics Theory, Methods and Applications
 
 # Display this page in the Featured widget?
 featured: true
