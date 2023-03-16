@@ -19,8 +19,8 @@ bio: My research interests include Seismic tomography, Inverse theory and Optima
 # Interests to show in About widget
 interests:
   - Seismic tomography
-  - Inverse theory
-  - Optimal transport theory
+  - Optimal transport problems
+  - Eikonal equation solver
 
 # Education to show in About widget
 education:
