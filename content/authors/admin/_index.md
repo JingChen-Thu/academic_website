@@ -61,8 +61,8 @@ email: 'jing.chen@ntu.edu.sg'
 highlight_name: true
 ---
 
-Jing Chen is a research fellow in School of Physical and Mathematical Sciences (SPMS), Nanyang Technological University. His research interest include Seismic tomography, Inverse theory and Optimal transport theory.
+Jing Chen is a research fellow in School of Physical and Mathematical Sciences (SPMS), Nanyang Technological University. His research focuses on the mathematical methods and their applications in seismic tomography.
 
-陈敬是南洋理工大学物理与数学科学学院的一名博后，其研究兴趣包括地震层析成像，反演理论和最优输运理论。
+陈敬是南洋理工大学物理与数学科学学院的一名博后，主要研究地震层析成像问题中的数学方法及其实际应用。
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
