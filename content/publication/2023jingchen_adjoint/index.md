@@ -3,7 +3,7 @@ title: 'Adjoint-state traveltime tomography for azimuthally anisotropic media in
 
 authors:
   - "[9]"
-  - \textbf{J. Chen}
+  - admin
   - G. Chen
   - M. Nagaso
   - P. Tong
