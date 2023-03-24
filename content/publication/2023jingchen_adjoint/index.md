@@ -25,8 +25,8 @@ publishDate: '2023-03-14T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: Geophysical Journal International, ggad093
-publication_short: Geophysical Journal International, ggad093
+publication: Geophysical Journal International, 234(1), 712-736
+publication_short: Geophysical Journal International, 234(1), 712-736
 
 # Display this page in the Featured widget?
 featured: true
