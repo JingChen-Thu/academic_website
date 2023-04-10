@@ -13,11 +13,11 @@ authors:
   - Hao Wu
 
 
-date: '2023-03-16T00:00:00Z'
+date: '2023-04-10T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-03-16T00:00:00Z'
+publishDate: '2023-04-10T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,8 +26,8 @@ publishDate: '2023-03-16T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: Numerical Mathematics Theory, Methods and Applications, accepted
-publication_short: Numerical Mathematics Theory, Methods and Applications, accepted
+publication: Numerical Mathematics Theory, Methods and Applications, 16(2), 277-297
+publication_short: Numerical Mathematics Theory, Methods and Applications, 16(2), 277-297
 
 # Display this page in the Featured widget?
 featured: true
