@@ -1,5 +1,5 @@
 ---
-title: 'The quadratic Wasserstein metric with squaring scaling for seismic velocity inversion'
+title: 'On quadratic Wasserstein metric with squaring scaling for seismic velocity inversion'
 
 authors:
   - "[10]"
