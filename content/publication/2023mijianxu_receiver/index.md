@@ -1,5 +1,5 @@
 ---
-title: 'On quadratic Wasserstein metric with squaring scaling for seismic velocity inversion'
+title: 'Receiver function adjoint tomography for three-dimensional high-resolution seismic array imaging: methodology and applications in southeastern Tibet'
 
 authors:
   - "[11]"

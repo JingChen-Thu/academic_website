@@ -1,8 +1,8 @@
 ---
-title: 'On quadratic Wasserstein metric with squaring scaling for seismic velocity inversion'
+title: 'Adjoint-state differential arrival time tomography'
 
 authors:
-  - "[11]"
+  - "[12]"
   # - admin
   # - G. Chen
   # - M. Nagaso
