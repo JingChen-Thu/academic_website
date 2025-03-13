@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Projects
+title: Softwave
 subtitle: ''
 
 content:
@@ -33,5 +33,5 @@ content:
 design:
   # Choose a view for the listings:
   view: card
-  columns: '3'
+  columns: '2'
 ---
