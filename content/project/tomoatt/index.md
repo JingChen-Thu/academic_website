@@ -1,7 +1,7 @@
 ---
 title: "TomoATT: An open-source package for Eikonal equation-based adjoint-state traveltime tomography for seismic velocity and azimuthal anisotropy"
 # summary: "这个项目研究了 X 在 Y 领域的应用"
-date: 2025-03-13
+date: 2024-01-01
 # authors: ["J. Chen, M. Nagaso, M. Xu, and P. Tong"]
 tags: ["Traveltime tomography", "Seismic imaging", "Eikonal equation", "Azimuthal anisotropy"]
 categories: ["Software"]

@@ -29,9 +29,9 @@ content:
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
-  order: desc
+  order: asc
 design:
   # Choose a view for the listings:
   view: card
-  columns: '2'
+  columns: '3'
 ---
