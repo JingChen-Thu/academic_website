@@ -11,6 +11,8 @@ image:
   caption: "TomoATT_Logo"
   focal_point: "Center"
   filename: "featured.png"
+  width: 100%
+  height: auto
 links:
 - icon: github
   icon_pack: fab
@@ -20,5 +22,9 @@ links:
   icon_pack: fas
   name: Website
   url: "https://tomoatt.com"
+- icon: newspaper
+  icon_pack: fas
+  name: Paper
+  url: "https://doi.org/10.48550/arXiv.2412.00031"
 ---
-这里是项目的详细介绍，可以使用 **Markdown** 语法。
+<!-- 这里是项目的详细介绍，可以使用 **Markdown** 语法。 -->
