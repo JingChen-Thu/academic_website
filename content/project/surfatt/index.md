@@ -11,7 +11,7 @@ image:
   caption: "TomoATT_Logo"
   focal_point: "Center"
   filename: "featured.png"
-  width: 100%
+  width: 33%
   height: auto
 links:
 - icon: github
