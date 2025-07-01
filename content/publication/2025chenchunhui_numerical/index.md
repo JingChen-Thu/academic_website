@@ -2,7 +2,7 @@
 title: 'A numerical algorithm with linear complexity for multi-marginal optimal transport with L1 cost'
 
 authors:
-  - "[23]"
+  - "[24]"
   - Chunhui Chen
   - admin
   - Baojia Luo
