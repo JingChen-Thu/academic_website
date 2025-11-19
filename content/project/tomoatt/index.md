@@ -5,7 +5,7 @@ date: 2024-01-01
 # authors: ["J. Chen, M. Nagaso, M. Xu, and P. Tong"]
 tags: ["Traveltime tomography", "Seismic imaging", "Eikonal equation", "Azimuthal anisotropy"]
 categories: ["Software"]
-external_link: "https://github.com/TomoATT/TomoATT"  # 如果项目有外部链接
+external_link: "https://tomoatt.com"  # 如果项目有外部链接
 image:
   preview_only: false
   caption: "TomoATT_Logo"
@@ -17,7 +17,7 @@ links:
 - icon: github
   icon_pack: fab
   name: GitHub
-  url: "https://github.com/TomoATT/TomoATT"
+  url: "https://tomoatt.com"
 - icon: globe
   icon_pack: fas
   name: Website
@@ -25,6 +25,6 @@ links:
 - icon: copy
   icon_pack: fas
   name: Paper
-  url: "https://doi.org/10.48550/arXiv.2412.00031"
+  url: "https://doi.org/10.1016/j.cageo.2025.105995"
 ---
 <!-- 这里是项目的详细介绍，可以使用 **Markdown** 语法。 -->
