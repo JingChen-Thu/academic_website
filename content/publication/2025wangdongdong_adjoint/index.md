@@ -2,7 +2,7 @@
 title: 'Adjoint‐state attenuation tomography: Method and application to Northern New Zealand'
 
 authors:
-  - "[26]"
+  - "[27]"
   - Dongdong Wang
   - admin
   - Shucheng Wu

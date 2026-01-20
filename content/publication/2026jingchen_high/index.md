@@ -2,7 +2,7 @@
 title: 'High normal stress promoted supershear rupture during the 2023 Mw 7.8 Kahramanmaraş earthquake'
 
 authors:
-  - "[27]"
+  - "[28]"
   - admin
   - Mijian Xu
   - Yiming Bai
